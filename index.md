@@ -5,7 +5,7 @@ Hi, I'm Jon.  I've spent the last 9 and a half years on Navy Active Duty as an I
 
 
 ### Japan - My home
-![Japan](https://i.imgur.com/1gZNr36.jpg)
+![Japan](https://i.imgur.com/nSQYhTR.jpg)
 
 For the past four years, I've lived on the outskirts of Tokyo and two years before that in northern Japan, aka the very cold Aomori Prefecture.  My time there was amazing and I enjoyed every minute of it, I met some fantastic friends, found I was interested in some hobbies I didn't think I liked and even found someome pretty special.  I did manage to pick up some Japanese along the way, but it needs a lot of improvement, fortunately I have a personal translator.
 
