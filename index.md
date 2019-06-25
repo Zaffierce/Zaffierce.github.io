@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## My about me - Jon Veach
 
-You can use the [editor on GitHub](https://github.com/Zaffierce/Zaffierce.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Jon.  I've spent the last 9 and a half years on Navy Active Duty as an IT and am now transitioning into the Programming field.  I've had a lot of great experiences in the military and learned some very valuable tools along the way, all while being able to travel and see places I thought I'd never see.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Japan
 
 ```markdown
-Syntax highlighted code block
+I lived a total of 6 years in Japan, 4 years on the outskirts of Tokyo and 2 years in the very cold Aomori Prefecture.  I did manage to pick up some Japanese along the way, but it's still very rough!  I enjoy off roading and the Japanese have a very amazing off roading culture that's super welcome and helpful.  Over there, it's almost a rite of passage if you roll your jeep or at least go on it's side.
 
 # Header 1
 ## Header 2
