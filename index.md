@@ -30,6 +30,7 @@ The off roading culture in Japan is fantastic.  Dirt bikes, Jimny's, Toyota FJs 
 - Performed some body "modifications" aka beat it with a hammer
 - Changed rear bumper after some wiring modifications
 - Installed plate bracket on back door and changed license plate location
+- Upgraded exhaust (Removed it for a little while, that was fun!  No exhaust on a Jimny = SLOW)
 
 
 
@@ -44,6 +45,10 @@ Learning the language is daunting and rather frustrating.  While in English we h
 After all that time, learning a little bit of the language and how the culture works in Japan, I'm 100% confident that I could live there for the rest of my life and be content with it.  Even though Tokyo has a population of almost 10 million people, everyone there respects the culture even if you're not native Japanese and is polite to everyone and thing.  Respect in that culture is everything and if you act rude in any sort of way, you'll get an ear full from everyone on how you should act.  Kind of a scary site when you have an obaasan (picture tiny old grandma) yelling at you for not throwing the plastic bottle in the right trash can.... 
 
 
+
+### The growth mindset - because the lab told me to do so
+
+The growth mindset in my words is basically where you have a positive outlook on everything.  Instead of saying "That's too hard for me", try saying "Okay, let's try it" or "That's impossible", why not try saying "How do I do this?"  It's important to have this type of mindset, especially in a tech field where things are constantly changing and evolving so you don't get left behind.  I do my best to keep focus of this mindset by always being positive about things, taking criticism as a "feedback" tool, and listening to those around me and seeing what ideas or information that they may have.
 
 ### The end
 
