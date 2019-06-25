@@ -4,7 +4,7 @@ Hi, I'm Jon.  I've spent the last 9 and a half years on Navy Active Duty as an I
 
 
 ### Japan - My home
-![Jimny](https://i.imgur.com/xECahY2.jpg)
+![Japan](https://i.imgur.com/1gZNr36.jpg)
 
 I lived a total of 6 years in Japan, 4 years on the outskirts of Tokyo and 2 years in the very cold Aomori Prefecture.  I did manage to pick up some Japanese along the way, but it's still very rough!  I enjoy off roading and the Japanese have a very amazing off roading culture that's super welcome and helpful.  Over there, it's almost a rite of passage if you roll your jeep or at least go on it's side.  But it's not all dangerous either, most often it's just a group of friends who all meet up at the river, have a nice BBQ and enjoy the sunshine, then go and see what we can climb or break!
 
