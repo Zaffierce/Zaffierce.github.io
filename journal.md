@@ -8,6 +8,7 @@ Commands | Description
 -------- | ------------
 git status | This displays the current status of your files
 git add file | This adds a file name to be committed
+git add . | This adds all untracked files
 git commit -m " " | This commits the file(s) you just added with a message
 git push origin master | This pushes to git
 git fetch origin | This fetches the current version on git
