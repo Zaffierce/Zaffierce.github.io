@@ -31,6 +31,14 @@ The off roading culture in Japan is fantastic.  Dirt bikes, Jimny's, Toyota FJs 
 - Installed plate bracket on back door and changed license plate location
 
 
+
+### Learning how to live in Japan
+
+![Japan]()
+
+As I mentioned above, for the first two years in Japan I did pretty much nothing.  I was afraid to go out and adventure all because I couldn't speak the language and the last thing I wanted was to be stuck in the middle of no where and not be able to ask for help.  Well, as it turns out, I'm pretty stupid and restricted myself for no reason.  In Japan, English is taught at 5th grade [(future plans for as young as 3rd grade)](https://www.japantimes.co.jp/news/2016/09/05/reference/english-heads-elementary-school-2020-hurdles-abound/#.XRGEBo97lPZ) and continues on through out your schooling.  Most Japanese can speak basic English while almost all of them can read it, and if you do ever run into any issues, [Google Translate](https://translate.google.com/#view=home&op=translate&sl=en&tl=ja) is a very great application which I used almost on a daily basis.  It can translate text, pictures and even voice.  Sometimes the translations are a little... interesting, but that's mainly due to how complex the Japanese language can be.  95% of the time you'll understand what you are translating, or at least get enough information to kind of fill in the rest of the blocks.
+
+
 # Header 1
 ## Header 2
 ### Header 3
