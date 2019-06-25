@@ -1,6 +1,6 @@
 ## My about me - Jon Veach
 
-Hi, I'm Jon.  I've spent the last 9 and a half years on Navy Active Duty as an IT and am now transitioning into the Programming field.  I've had a lot of great experiences in the military and learned some very valuable tools along the way, all while being able to travel and see places I thought I'd never see.  While I make the military sound super enjoyable and exciting, there are just as many bad experiences and lessons learned that come from it.  If you are stuck in life and don't know what to do, I'd recommend giving it a try.  It may just be that very thing that helps kick start you on to the next best thing.
+こんにちは、はじめまして！私わジョンーです。よろしくお願いいたします。　Hello, nice to meet you! I'm Jon.  I've spent the last 9 and a half years on Navy Active Duty as an IT and am now transitioning into the Programming field.  I've had a lot of great experiences in the military and learned some very valuable tools along the way, all while being able to travel and see places I thought I'd never see.  While I make the military sound super enjoyable and exciting, there are just as many bad experiences and lessons learned that come from it.  If you are stuck in life and don't know what to do, I'd recommend giving it a try.  It may just be that very thing that helps kick start you on to the next best thing.
 
 
 
