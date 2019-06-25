@@ -50,9 +50,9 @@ The basic layout of a HTML5 website
 
 ## Additional notes for HTML
 
-<a href> <img> <li>, basically anything within a <> is considered a tag.  Some tags require attributes, while it's optional for others.  An example of ones that require an attribute is <a href="www.google.com">Google!</a> - In this `href`is the attribute but it is required, otherwise <a> is a useless tag.  The same goes for <img src="image link"> - the `src` is required to define where your picture is.  
+`<a href> <img> <li>`, basically anything within a <> is considered a tag.  Some tags require attributes, while it's optional for others.  An example of ones that require an attribute is `<a href="www.google.com">Google!</a>` - In this `href`is the attribute but it is required, otherwise `<a>` is a useless tag.  The same goes for `<img src="image link">` - the `src` is required to define where your picture is.  
 
-Now there are other attributes that aren't required, but can be utilized to specifically label things for CSS optimization later on.  Examples of this could be <section id="Main-Content"></section> or <img id="doggo" src="cutedog.jpg">.  Assigning the id attribute to these elements makes it so these are unique.
+Now there are other attributes that aren't required, but can be utilized to specifically label things for CSS optimization later on.  Examples of this could be `<section id="Main-Content"></section>` or `<img id="doggo" src="cutedog.jpg">`.  Assigning the id attribute to these elements makes it so these are unique.
 
 There's also a thing called Parent and Children, basically meaning if there's a tag inside of a tag, it's a Parent/Child.
 
