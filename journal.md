@@ -6,6 +6,7 @@ This journal is composed of things that I have learned from the Code Fellows 102
 
 Commands | Description
 -------- | ------------
+git clone link | This will clone the repository from github to your local computer
 git status | This displays the current status of your files
 git add file | This adds a file name to be committed
 git add . | This adds all untracked files
