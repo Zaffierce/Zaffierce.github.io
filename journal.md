@@ -72,3 +72,29 @@ There's also a thing called Parent and Children, basically meaning if there's a 
 
 In this example, `<section>` is a parent of `<img>, <ul> and <li>`.  `<ul>` is a parent of `<li>`.  `<img>` and `<ul>` are siblings, since they reside on the same level.  This is a very important thing to note and key to writing clean and neat code as this will help tremendiously later on when it comes to creating the CSS.  It's much easier to be able to identify the list of dog facts because you can break it down and understand exactly where it sits!
 
+
+## Cascading Style Sheets
+
+CSS is what styles the sheets, hence the "style" portion in the name.  While you don't *need* an extra file for CSS, meaning that you could write it within your .html file, it's really not recommended.  Biggest reason being is because you could have one file that controls how your entire website looks, and it would be very easy to change one line in there and change the design of your entire website.  But, if you wrote your css within each html file, then you would have to go and change each and every file until everything was updated.  Kinda sucks...
+
+CSS Selector Notes | Description
+------------------ | -----------
+* | This targets ALL elements on a page
+h1, h2, h3 | This would target the `<h1>, <h2>, <h3>` elements on a page
+.note | This targets any `class="note"` elements on a page
+p.note | This targets any `<p class="note">` elements on a page
+#note | This targets any `id="note"` elements on a page
+li>a | This targets any `<a>` elements that are a child of an `<li>`
+p a | This targets any `<a>` elements that sit within a `<p>`
+h1+p | This targets the first `<p>` element after an `<h1>` element
+h1~p | If you had two `<p>` elements inside of an `<h1>`, this would apply to both
+
+
+CSS Color Notes | Description
+--------------- | -----------
+hex | #123456
+rgb | 0, 50, 100
+color name | red
+opacity | Specify a number between 0.0 & 1.0.  `opacity: 0.1;`
+rgba | rgb alpha, same as rgb but applies opacity.  `background-color: rgba(0,50,100,0.1);`
+hsl | hue saturation lightness.  Hue is an angle, 0-360.  Saturation is %, 0-100.  Lightness is %, 0-100 (0% - white, 50% normal, 100% - black) `background-color: hsla(0, 100%, 100%, 0.5);`
