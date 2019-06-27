@@ -52,7 +52,7 @@ The basic layout of a HTML5 website
 
 ## Additional notes for HTML
 
-`<a href> <img> <li>`, basically anything within a <> is considered a tag.  Some tags require attributes, while it's optional for others.  An example of ones that require an attribute is `<a href="www.google.com">Google!</a>` - In this `href`is the attribute but it is required, otherwise `<a>` is a useless tag.  The same goes for `<img src="image link">` - the `src` is required to define where your picture is.  
+`<a href> <img> <li>`, basically anything within a <> is considered a tag.  Some tags require attributes, while it's optional for others.  An example of ones that require an attribute is `<a href="www.google.com">Google!</a>` - In this `href`is the attribute but it is required, otherwise `<a>` is an anchor tag that's not doing too much.  The same goes for `<img src="image link">` - the `src` is required to define where your picture is.  
 
 Now there are other attributes that aren't required, but can be utilized to specifically label things for CSS optimization later on.  Examples of this could be `<section id="Main-Content"></section>` or `<img id="doggo" src="cutedog.jpg">`.  Assigning the id attribute to these elements makes it so these are unique.
 
@@ -98,3 +98,46 @@ color name | red
 opacity | Specify a number between 0.0 & 1.0.  `opacity: 0.1;`
 rgba | rgb alpha, same as rgb but applies opacity.  `background-color: rgba(0,50,100,0.1);`
 hsl | hue saturation lightness.  Hue is an angle, 0-360.  Saturation is %, 0-100.  Lightness is %, 0-100 (0% - white, 50% normal, 100% - black) `background-color: hsla(0, 100%, 100%, 0.5);`
+
+
+##JavaScript!
+
+JavaScript is super awesome and allows you to do basically anything you want within your project.  The real trick is just figuring out how to get it to do that one thing...
+
+
+Arithmetic Operators | Description
+-------------------- | -----------
++ | Adds one value to another
+- | Subtracts one value from another
+/ | Divides two values
+* | Multiplies two values
+++ | Increased value by one
+-- | Subtracts value by one
+% | Divides two values and returns the remainder
+
+
+###Functions!
+
+Functions let you group a series of statements together to perform a specific task.  If different parts of a script repeat the same task, you can reuse the 
+function rather than repeating the same set of statements.
+
+`document.write('Hello!');` and `function sayHello() { document.write('Hello!') };` are the same, but the main difference being is that you can now call `sayHello()` 
+at any time in your code, instead of writing out `document.write('Hello!');`, so it makes things faster for you later on.  This of course is a very basic example, but with more
+complex bits of code, it becomes much easier to run things after you have the shell created.
+
+A better example of "complex" code would be `function getArea(width, height) { return width * height }`, in this bit you are saying that your width and height can be changed
+depending on what it is that you insert into your function.  So you can insert `getArea(3, 5)` and this would return 15.  Or you can set the numbers as a var before your function
+like `var wallWidth = 3; var wallHeight = 5;` and then do `getArea(wallWidth, wallHeight);` which returns 15 - only difference here is that you've set your wallWidth & wallHeight dependant
+to a variable, which you could also change later on as you go.
+
+```
+function calculateArea(width, height) {
+  var area = width * height;
+  return area;
+}
+var wallOne = calculateArea(3,5);
+var wallTwo = calculateArea(8,5);
+
+console.log(wallOne); //This returns 15
+console.log(wallTwo); //This returns 40
+```
