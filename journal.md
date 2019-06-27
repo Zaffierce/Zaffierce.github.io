@@ -100,7 +100,7 @@ rgba | rgb alpha, same as rgb but applies opacity.  `background-color: rgba(0,50
 hsl | hue saturation lightness.  Hue is an angle, 0-360.  Saturation is %, 0-100.  Lightness is %, 0-100 (0% - white, 50% normal, 100% - black) `background-color: hsla(0, 100%, 100%, 0.5);`
 
 
-##JavaScript!
+## JavaScript!
 
 JavaScript is super awesome and allows you to do basically anything you want within your project.  The real trick is just figuring out how to get it to do that one thing...
 
@@ -116,7 +116,7 @@ Arithmetic Operators | Description
 % | Divides two values and returns the remainder
 
 
-###Functions!
+### Functions!
 
 Functions let you group a series of statements together to perform a specific task.  If different parts of a script repeat the same task, you can reuse the 
 function rather than repeating the same set of statements.
